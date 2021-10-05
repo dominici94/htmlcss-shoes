@@ -5,14 +5,10 @@
 }
 
 body{
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
 }
 
-/* nav{
-    position: fixed;
-} */
-
-nav ul{
+nav{
     position: fixed;
     top: 30px;
     right: 10px;
@@ -66,7 +62,7 @@ nav ul li a{
 .cont-item h2{
     text-align: center;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 60px;
     color: yellow;
 }
 
